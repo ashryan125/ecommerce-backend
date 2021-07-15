@@ -32,7 +32,7 @@ Once in the properly cloned folder, run ```npm install``` to install the followi
 ## Usuage
  #### **LOCAL USAGE:** 
  Enter ```npm start``` in your command line and press ```ENTER```.  
- 
+ Open Insomnia Core and run ```CRUD``` operations - ``` GET POST PUT DELETE```
 ## User Story
 ```
 AS A manager at an internet retail company
@@ -56,6 +56,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video
-![E-Commerce Back End App gif](#)
+![E-Commerce Back End App gif](./sequelize-walkthrough.gif)
 
-[Fullsize video can be found here!](#)
+[Fullsize video can be found here!](https://drive.google.com/file/d/1uAqn2c1seDkD-F3YFm-N3mc0QXxxcSug/view)
